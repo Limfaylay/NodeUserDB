@@ -1,0 +1,19 @@
+{
+  "name": "userdb",
+  "version": "1.0.0",
+  "description": "User management app",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "*",
+    "nodemon": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Limfaylay",
+  "license": "ISC"
+}
